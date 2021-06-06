@@ -1,0 +1,32 @@
+[
+ {
+   "date": "12/05/2021",
+   "rainamount": 12,
+   "impactedassets": "200L",
+   "city": "CCU"
+ },
+ {
+   "date": "12/05/2021",
+   "rainamount": 14,
+   "impactedassets": "280L",
+   "city": "MUM"
+ },
+ {
+   "date": "12/05/2021",
+   "rainamount": 15,
+   "impactedassets": "300L",
+   "city": "DEL"
+ },
+ {
+   "date": "12/05/2021",
+   "rainamount": 12,
+   "impactedassets": "200L",
+   "city": "AMD"
+ },
+ {
+   "date": "12/05/2021",
+   "rainamount": 18,
+   "impactedassets": "400L",
+   "city": "CHN"
+ }
+]
