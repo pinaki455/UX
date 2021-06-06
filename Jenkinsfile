@@ -15,6 +15,13 @@ pipeline
         echo 'testing the application....'
     }
   }
+    
+     stage("security analysis") {
+      steps
+    {
+        echo 'DAST and IAST are going on for the application....'
+    }
+  }
 
     stage("deploy") {
       steps
